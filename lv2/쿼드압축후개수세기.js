@@ -15,10 +15,7 @@ function solution(arr) {
     //2의 curN제곱만큼 나눠가며 탐색 시작
     //이때, n-1이 아니라 n제곱부터 하는 이유는 모든 숫자가 다 같은 경우를 대비
     let curN = Math.pow(2, n)
-
-    //curN이 1보다 클 때 = 최소 2x2 범위까지 탐색
-    while (curN > 1) {
-        const bfs = (Y, X, range) => {
+    const bfs = (Y, X, range) => {
             //탐색을 시작하는 수
             const start = arr[Y][X]
             //탐색 범위 내 모든 수가 start와 같은지 판단
@@ -44,7 +41,10 @@ function solution(arr) {
                     }
                 }
             }
-        }
+    }
+    //curN이 1보다 클 때 = 최소 2x2 범위까지 탐색
+    while (curN > 1) {
+        
         //curN x curN 범위만큼 탐색 시작
         for (let y = 0; y < maxY; y += curN) {
             for (let x = 0; x < maxX; x += curN) {
@@ -54,7 +54,6 @@ function solution(arr) {
         //탐색 완료시 curN을 1/2 하여 범위를 줄여 탐색
         curN /= 2
     }
-
     //1x1 탐색
     for (let y = 0; y < maxY; y++) {
         for (let x = 0; x < maxX; x++) {
