@@ -15,7 +15,7 @@ function solution(arr) {
     //2의 curN제곱만큼 나눠가며 탐색 시작
     //이때, n-1이 아니라 n제곱부터 하는 이유는 모든 숫자가 다 같은 경우를 대비
     let curN = Math.pow(2, n)
-    const bfs = (Y, X, range) => {
+    const search = (Y, X, range) => {
             //탐색을 시작하는 수
             const start = arr[Y][X]
             //탐색 범위 내 모든 수가 start와 같은지 판단
@@ -48,7 +48,7 @@ function solution(arr) {
         //curN x curN 범위만큼 탐색 시작
         for (let y = 0; y < maxY; y += curN) {
             for (let x = 0; x < maxX; x += curN) {
-                bfs(y, x, curN)
+                search(y, x, curN)
             }
         }
         //탐색 완료시 curN을 1/2 하여 범위를 줄여 탐색
