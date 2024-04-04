@@ -65,4 +65,4 @@ function solution(maps) {
     return (toLever + fromLever)
 }
 //레버까지의 최단거리 => 문까지의 최단거리를 순서대로 구함
-//bfs 2번 사용 => 코드 중복이니 최종 목표(Target)만 바꿔서
+//bfs 2번 사용 => 코드 중복을 피하기 위해 최종 목표(target)만 바꿔서 실행
