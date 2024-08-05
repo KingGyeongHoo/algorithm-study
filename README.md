@@ -22,6 +22,7 @@
 - [k진수에서소수개수구하기](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/k진수에서소수개수구하기.js)
 - [거리두기확인하기](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/거리두기확인하기.js)
 - [구명보트](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/구명보트.js)
+- [귤고르기](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/귤고르기.js)
 - [다음큰숫자](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/다음큰숫자.js)
 - [두큐합같게만들기](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/두큐합같게만들기.js)
 - [무인도여행](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/무인도여행.js)
