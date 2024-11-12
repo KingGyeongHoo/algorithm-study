@@ -1,4 +1,4 @@
-let [n, k] = "0 9".split(" ");
+let [n, k] = "2 9".split(" ");
 
 let str = "";
 
