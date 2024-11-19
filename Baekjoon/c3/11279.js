@@ -27,7 +27,7 @@ rl.on("line", (line) => {
       let idx = this.heap.length - 1;
       let parentIdx = Math.floor((idx - 1) / 2);
 
-      while (this.heap[idx] < this.heap[parentIdx]) {
+      while (this.heap[idx] > this.heap[parentIdx]) {
         this.swap(idx, parentIdx);
         idx = parentIdx;
         parentIdx = Math.floor((idx - 1) / 2);
@@ -42,21 +42,21 @@ rl.on("line", (line) => {
       let rightChild = leftChild + 1;
 
       let childIdx = leftChild;
-      if (this.heap[rightChild] < this.heap[leftChild]) {
+      if (this.heap[rightChild] > this.heap[leftChild]) {
         childIdx = rightChild;
       }
       const firstItem = this.heap[0];
 
       this.heap[0] = this.heap.pop();
 
-      while (this.heap[childIdx] < this.heap[idx]) {
+      while (this.heap[childIdx] > this.heap[idx]) {
         this.swap(childIdx, idx);
         idx = childIdx;
         let nextLeftChild = Math.floor(idx * 2 + 1);
         let nextRightChild = nextLeftChild + 1;
         let nextChildIdx = nextLeftChild;
 
-        if (this.heap[nextRightChild] < this.heap[nextLeftChild]) {
+        if (this.heap[nextRightChild] > this.heap[nextLeftChild]) {
           nextChildIdx = nextRightChild;
         }
         childIdx = nextChildIdx;
