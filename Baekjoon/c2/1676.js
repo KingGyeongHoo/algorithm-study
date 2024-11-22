@@ -7,13 +7,24 @@ let input = 0;
 rl.on("line", (line) => {
   input = Number(line);
 }).on("close", () => {
-  let num = 0;
+  const factorial = (num) => {
+    num = BigInt(num);
+    let sum = 1n;
+    for (let i = 2n; i <= num; i++) {
+      sum *= i;
+    }
+    return sum.toString();
+  };
 
-  while (input >= 5) {
-    num += parseInt(input / 5);
-    input /= 5;
+  const str = factorial(input);
+  let zero = 0;
+  for (let i = str.length - 1; i >= 0; i--) {
+    if (str[i] === "0") {
+      zero++;
+    } else {
+      console.log(zero);
+      break;
+    }
   }
-
-  console.log(num);
   process.exit(0);
 });
