@@ -1,0 +1,18 @@
+## LV1
+
+- [x만큼간격이있는n개의숫자](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/x만큼간격이있는n개의숫자.js)
+- [나머지가1이되는수찾기](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/나머지가1이되는수찾기.js)
+- [덧칠하기](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/덧칠하기.js)
+- [두정수사이의합](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/두정수사이의합.js)
+- [문자열내p와y의개수](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/문자열내p와y의개수.js)
+- [문자열을정수로바꾸기](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/문자열을정수로바꾸기.js)
+- [약수의합](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/약수의합.js)
+- [자릿수더하기](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/자릿수더하기.js)
+- [자연수뒤집어배열로만들기](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/자연수뒤집어배열로만들기.js)
+- [정수내림차순으로배치하기](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/정수내림차순으로배치하기.js)
+- [정수제곱근판별](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/정수제곱근판별.js)
+- [짝수와홀수](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/짝수와홀수.js)
+- [추억점수](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/추억점수.js)
+- [카드뭉치](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/카드뭉치.js)
+- [평균구하기](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/평균구하기.js)
+- [하샤드수](https://github.com/KingGyeongHoo/programmers/blob/main/lv1/하샤드수.js)
