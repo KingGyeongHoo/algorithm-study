@@ -26,3 +26,4 @@
 - [쿼드압축후개수세기](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/쿼드압축후개수세기.js)
 - [피보나치수](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/피보나치수.js)
 - [호텔대실](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/호텔대실.js)
+- [혼자놀기의달인](https://github.com/KingGyeongHoo/programmers/blob/main/lv2/혼자놀기의달인.js)
