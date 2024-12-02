@@ -28,3 +28,4 @@
 - [호텔대실](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv2/호텔대실.js)
 - [혼자놀기의달인](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv2/혼자놀기의달인.js)
 - [괄호변환](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv2/괄호변환.js)
+- [리코챗로봇](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv2/리코챗로봇.js)
