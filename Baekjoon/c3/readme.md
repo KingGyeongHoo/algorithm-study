@@ -38,3 +38,5 @@
 - [30834](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c3/30804.js)
 - [10026](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c3/10026.js)
 - [5430](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c3/5430.js)
+- [7569](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c3/7569.js)
+- [18111](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c3/18111.js)
