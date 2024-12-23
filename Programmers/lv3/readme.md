@@ -6,3 +6,6 @@
 - [야근지수](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/야근지수.js)
 - [여행경로](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/여행경로.js)
 - [최고의집합](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/최고의집합.js)
+- [가장먼노드](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/가장먼노드.js)
+- [부대복귀](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/부대복귀.js)
+- [아이템줍기](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/아이템줍기.js)
