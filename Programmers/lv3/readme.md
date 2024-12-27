@@ -9,3 +9,4 @@
 - [가장먼노드](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/가장먼노드.js)
 - [부대복귀](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/부대복귀.js)
 - [아이템줍기](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/아이템줍기.js)
+- [숫자게임](https://github.com/KingGyeongHoo/programmers/blob/main/Programmers/lv3/숫자게임.js)
