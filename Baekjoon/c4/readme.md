@@ -3,6 +3,7 @@
 - [1043](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c4/1043.js)
 - [1149](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c4/1149.js)
 - [1629](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c4/1629.js)
+- [1753](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c4/1753.js)
 - [1916](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c4/1916.js)
 - [1932](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c4/1932.js)
 - [1991](https://github.com/KingGyeongHoo/algorithm-study/blob/main/Baekjoon/c4/1991.js)
